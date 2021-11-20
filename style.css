@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    margin-top: 23px;
+
+}
+table {
+    margin: auto;
+}
+
+input {
+    font-size: 30px;
+    border: 2px solid rgb(5, 5, 5);
+    
+    
+}
+button {
+    font-size: 50px;
+    width: 93px;
+    background-color: brown;
+    border-radius: 2px;
+    background-color: blueviolet;
+    padding: 9px;
+}
+h1 {
+    font-weight: 200;
+    
+}
+*  {
+    background-color: bisque;
+}
